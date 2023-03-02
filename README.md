@@ -1,7 +1,7 @@
 # ThinkZone Edubridge Official Account
 
 ### Tech Stack -
-#### _React.js, React Native, Angular, Ionic, MongoDB, Firebase, Node.js_
+#### _React.js, React Native, Redux-Toolkit, Redux Saga, Angular, Ionic, MongoDB, Firebase, Node.js_
 
 <!---
 ThinkzoneEdu/ThinkzoneEdu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
